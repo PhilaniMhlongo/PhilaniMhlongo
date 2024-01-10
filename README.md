@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **a chat app**
  
- 🌱 I’m currently learning **JavaScript,Django, React Native Expo**
+ 🌱 I’m currently learning **JavaScript**
 
  💬 Ask me about **Python,SQL,Java.... or anything [here](https://github.com/PhilaniMhlongo/PhilaniMhlongo/issues)**
 
@@ -44,13 +44,7 @@
 <br/>
 <hr/>
 
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/PhilaniMhlongo/PhilaniMhlongo/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
+
 
 <hr/>
 
