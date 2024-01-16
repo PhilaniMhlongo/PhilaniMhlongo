@@ -10,13 +10,12 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a chat app**
+ 🔭 I’m currently working on **Tiny URL Full Stack App**
  
  🌱 I’m currently learning **JavaScript**
 
  💬 Ask me about **Python,SQL,Java.... or anything [here](https://github.com/PhilaniMhlongo/PhilaniMhlongo/issues)**
 
- ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
  
  </div>
  
