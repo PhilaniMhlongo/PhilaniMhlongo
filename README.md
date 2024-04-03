@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **JavaScript**
 
- 💬 Ask me about **Python,SQL,Java.... or anything [here](https://github.com/PhilaniMhlongo/PhilaniMhlongo/issues)**
+ 💬 Ask me about **Python,SQL,Java....<!--  or anything [here](https://github.com/PhilaniMhlongo/PhilaniMhlongo/issues)**  -->
 
  
  </div>
